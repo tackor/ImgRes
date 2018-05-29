@@ -1,0 +1,85 @@
+﻿{
+  "Races":
+  [
+    {
+      "Name": "Manga",
+      "Icon": "girl_0",
+
+      "HairStiles": 
+      [
+        {
+          "Name": "长发",
+          "Icon": "hair_0"
+        },
+
+        {
+          "Name": "hari_1",
+          "Icon": "hair_1"
+        },
+
+        {
+          "Name": "hari_2",
+          "Icon": "hair_2"
+        }
+      ],
+
+      "Clothes": 
+      [
+        {
+          "Name": "cloth_0",
+          "Icon": "cloth_0"
+        },
+        {
+          "Name": "cloth_1",
+          "Icon": "cloth_1"
+        },
+        {
+          "Name": "cloth_2",
+          "Icon": "cloth_2"
+        }
+      ]
+
+    },
+
+    {
+      "Name": "name_1",
+      "Icon": "icon_1",
+
+      "HairStiles": 
+      [
+        {
+          "Name": "hari_0",
+          "Icon": "hair_0"
+        },
+
+        {
+          "Name": "hari_1",
+          "Icon": "hair_1"
+        },
+
+        {
+          "Name": "hari_2",
+          "Icon": "hair_2"
+        }
+      ],
+
+      "Clothes": 
+      [
+        {
+          "Name": "cloth_0",
+          "Icon": "cloth_0"
+        },
+        {
+          "Name": "cloth_1",
+          "Icon": "cloth_1"
+        },
+        {
+          "Name": "cloth_2",
+          "Icon": "cloth_2"
+        }
+      ]
+      
+    }
+
+  ]
+}
